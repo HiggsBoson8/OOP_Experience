@@ -73,7 +73,7 @@ class RickAndMorty:
         return f"Вы забыли вызвать у экземпляра метод get_character_info" 
 
 s = RickAndMorty()
-print(s.get_character(1)) 
+print(s.get_character(5)) 
 # print(s.__doc__) 
 # print(s.__dict__()) 
 # print(s.__hash__()) 
